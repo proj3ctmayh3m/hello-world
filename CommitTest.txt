@@ -1,4 +1,0 @@
-Test content for MY git tutorial.
-Things are getting intersting...
-
-Stage or not stage?
